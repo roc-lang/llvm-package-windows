@@ -20,7 +20,7 @@ jobs:
     # The type of runner that the job will run on
     runs-on: windows-latest
     env:
-      llvm_version: 12.0.1
+      llvm_version: 13.0.0
     
 
     # Steps represent a sequence of tasks that will be executed as part of the job
