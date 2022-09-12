@@ -1,3 +1,10 @@
+# This fork is [for running Roc on Windows](https://github.com/roc-lang/roc/blob/main/BUILDING_FROM_SOURCE.md#llvm-installation-on-windows)
+
+We need [a more recent version of LLVM](https://github.com/roc-lang/llvm-package-windows/pull/1)
+for Roc, so we use & maintain this fork.
+
+---
+
 # LLVM packages for Windows
 
 The official LLVM binaries only contain a small number of binaries and required files to be able to
